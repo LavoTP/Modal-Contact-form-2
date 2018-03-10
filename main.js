@@ -17,8 +17,8 @@ function closeModal(){
 var modal = document.getElementById('register-modal');
 window.addEventListener('click', clickOutside);
 
-function clickOutside(e) {
-    if (e.target == modal) {
+function clickOutside(Event) {
+    if (Event.target == modal) {
         modal.style.display = 'none';
     }
 }
