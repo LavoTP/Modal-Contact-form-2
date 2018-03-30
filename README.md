@@ -1,7 +1,7 @@
 
 # Modal Contact form
 =======
-# Modal Registration form 2
+# Modal Contact form 2
 
 This is my first modal project and my second repository.
 Please support share and like.
